@@ -21,17 +21,15 @@ Breast cancer diagnosis is a critical medical challenge, and this project levera
    - Malignant (1): Cancerous tumors.
 
 # 🛠️ Approach
-1. Exploratory Data Analysis
-Visualizations like histograms, scatter plots, and heatmaps to identify patterns.
-Statistical comparisons using T-tests to find significant features.
-2. Dimensionality Reduction
-PCA: Visualizing data clusters in 2D.
-t-SNE: Capturing non-linear relationships for improved clustering.
-3. Feature Importance
-Random Forest-based feature ranking to identify top predictors.
-Comparison with statistical tests (T-test results).
-4. Model Building
-Random Forest classifier trained on top features with cross-validation.
-Threshold adjustment to improve recall for malignant cases.
-5. Evaluation
-Test set evaluation with accuracy, confusion matrix, and classification report.
+## 1. Exploratory Data Analysis
+   - Visualizations like histograms, scatter plots, and heatmaps to identify patterns.
+   - Statistical comparisons using T-tests to find significant features.
+## 2. Dimensionality Reduction
+   - PCA: Visualizing data clusters in 2D.
+## 3. Feature Importance
+   - Random Forest-based feature ranking to identify top predictors.
+## 4. Model Building
+   - Random Forest classifier trained on top features with cross-validation.
+   - Threshold adjustment to improve recall for malignant cases.
+## 5. Evaluation
+   - Test set evaluation with accuracy, confusion matrix, and classification report.
