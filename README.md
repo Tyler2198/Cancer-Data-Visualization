@@ -5,4 +5,11 @@ This project demonstrates the use of Random Forests and other machine learning t
 # 📝 Overview
 Breast cancer diagnosis is a critical medical challenge, and this project leverages machine learning to improve classification accuracy. The dataset contains features derived from digitized images of fine needle aspirate (FNA) of breast masses, describing characteristics of cell nuclei.
 
+# ✨ Key Features
+- 📊 Data Exploration: Uncover patterns and relationships with EDA techniques.
+- 📉 Dimensionality Reduction: PCA and t-SNE applied to visualize high-dimensional data.
+- 🌟 Feature Importance: Identifying key predictors using Random Forests and statistical tests.
+- 🔍 Model Training: Building a robust Random Forest classifier with cross-validation.
+- 📈 Evaluation: Accuracy, confusion matrix, and classification report for model performance.
+- ⚙️ Threshold Optimization: Adjusting classification thresholds to favor malignant predictions.
 
