@@ -33,3 +33,12 @@ Breast cancer diagnosis is a critical medical challenge, and this project levera
    - Threshold adjustment to improve recall for malignant cases.
 ## 5. Evaluation
    - Test set evaluation with accuracy, confusion matrix, and classification report.
+
+# 🏆 Results
+- Cross-Validation Accuracy: ~94.5%
+- Test Set Accuracy: ~95.6%
+- Adjusted Threshold Accuracy: ~93.9% (Improved recall for malignant cases)
+- Key Insights:
+   - Malignant tumors are better identified with threshold optimization.
+   - Size-related features (e.g., radius, perimeter) are highly predictive.
+
