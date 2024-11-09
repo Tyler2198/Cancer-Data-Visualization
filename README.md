@@ -13,3 +13,9 @@ Breast cancer diagnosis is a critical medical challenge, and this project levera
 - 📈 Evaluation: Accuracy, confusion matrix, and classification report for model performance.
 - ⚙️ Threshold Optimization: Adjusting classification thresholds to favor malignant predictions.
 
+# 📂 Dataset
+- The dataset contains 569 samples of breast tumor data.
+- Each sample includes 30 numerical features such as radius, texture, perimeter, and more.
+- Classes:
+   - Benign (0): Non-cancerous tumors.
+   - Malignant (1): Cancerous tumors.
